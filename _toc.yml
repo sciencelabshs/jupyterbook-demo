@@ -8,3 +8,6 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: mymarkdownfile
+- file: directives/jupyterlite
+- file: directives/replite
+- file: directives/retrolite

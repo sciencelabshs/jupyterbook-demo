@@ -30,3 +30,10 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+sphinx:
+  extra_extensions: jupyterlite_sphinx
+  jupyterlite_config: "jupyter_lite_config.json" 
+  jupyterlite_contents: "./custom_contents"
+  jupyterlite_bind_ipynb_suffix: False
+ 
